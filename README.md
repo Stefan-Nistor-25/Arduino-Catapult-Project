@@ -11,3 +11,21 @@ IR receiver,
 IR remote,
 9 volt power adapter,
 Bread board
+
+I used the following libraries:
+
+IR Receiver and Remote Library:
+
+https://github.com/LuisMiCa/IRsmallDecoder/tree/master 
+
+Liquid Crystal Display Library:
+
+https://github.com/arduino-libraries/LiquidCrystal
+
+Servo Motor Library:
+
+https://github.com/arduino-libraries/Servo 
+
+Stepper Motor Library:
+
+https://github.com/arduino-libraries/Stepper 
